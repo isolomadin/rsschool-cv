@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://isolomadin.github.io/rsschool-cv/
+https://isolomadin.github.io/rsschool-cv/ 
